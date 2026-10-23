@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-23T11:56:31.903Z",
+  "version": "2026-10-23T12:12:11.828Z",
   "forge": {
     "version": "1.20.1-47.3.0",
     "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar",
@@ -283,42 +283,6 @@
       "sha1": "ee73886f2f5f27bf28cffa7cc8f2b9b4540df2aa"
     },
     {
-      "path": "config/ad_astra-client.jsonc",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/ad_astra-client.jsonc",
-      "size": 493,
-      "sha1": "2e814ca406c40d95d13854663cb576c6e8cb8469"
-    },
-    {
-      "path": "config/ad_astra.jsonc",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/ad_astra.jsonc",
-      "size": 3039,
-      "sha1": "279a19d8d801d769333df955a1345f8c99ea968c"
-    },
-    {
-      "path": "config/badoptimizations.txt",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/badoptimizations.txt",
-      "size": 3458,
-      "sha1": "aff5e1434dd35e1349ef9ebb6a40148c71e7bab2"
-    },
-    {
-      "path": "config/curios-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/curios-client.toml",
-      "size": 706,
-      "sha1": "3034250c05362494c9f366e5cca449dcea88885d"
-    },
-    {
-      "path": "config/curios-common.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/curios-common.toml",
-      "size": 161,
-      "sha1": "71b3af0db517d1651174a40732633899cbabc927"
-    },
-    {
-      "path": "config/CustomNpcs.cfg",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/CustomNpcs.cfg",
-      "size": 2928,
-      "sha1": "f9b3b58ad621b21371e0ecbfdbbbceff7f6cafce"
-    },
-    {
       "path": "config/drippyloadingscreen/options.txt",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/drippyloadingscreen/options.txt",
       "size": 2465,
@@ -487,30 +451,6 @@
       "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
     },
     {
-      "path": "config/farmersdelight-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/farmersdelight-client.toml",
-      "size": 478,
-      "sha1": "0837b7da65d2d2b5fe8430ecddae8a97379d8c55"
-    },
-    {
-      "path": "config/farmersdelight-common.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/farmersdelight-common.toml",
-      "size": 3930,
-      "sha1": "5f3a0af48b61c6b2935284df7282d6a32fad7414"
-    },
-    {
-      "path": "config/fml.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fml.toml",
-      "size": 1148,
-      "sha1": "726869383a0dd9368201319b75b902b2e5c8207f"
-    },
-    {
-      "path": "config/forge-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/forge-client.toml",
-      "size": 1628,
-      "sha1": "55e80f51f0c9cf66de1f95c4d775b24dc59627a1"
-    },
-    {
       "path": "config/forgematica/forgematica_83.143.117.57_20638.json",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/forgematica/forgematica_83.143.117.57_20638.json",
       "size": 95,
@@ -539,24 +479,6 @@
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/forgematica/forgematica_new_world_dim_minecraft_overworld.json",
       "size": 719,
       "sha1": "963972714462908a8f9ef44f962e0af44bf710f0"
-    },
-    {
-      "path": "config/forgematica.json",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/forgematica.json",
-      "size": 9174,
-      "sha1": "d0885f72fd62df92a0ea3cd51f956a81f924251f"
-    },
-    {
-      "path": "config/immersiveengineering-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/immersiveengineering-client.toml",
-      "size": 2387,
-      "sha1": "7fe9ea870c8b2fdbe509e82b7d7b59ee5f0ae912"
-    },
-    {
-      "path": "config/immersiveengineering-common.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/immersiveengineering-common.toml",
-      "size": 1707,
-      "sha1": "4b228c00c27ca269f0a96600c47200054a1ceebf"
     },
     {
       "path": "config/jeg/assets/jeg/animations/fire_sweeper.animation.json",
@@ -649,18 +571,6 @@
       "sha1": "0c9f073fc4521eccfdb0971344a2b338383586f1"
     },
     {
-      "path": "config/jeg-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/jeg-client.toml",
-      "size": 6343,
-      "sha1": "0ea1e92ddebf72b972630c97767fbaa62dbbaeb9"
-    },
-    {
-      "path": "config/jeg-common.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/jeg-common.toml",
-      "size": 17251,
-      "sha1": "b554e530a307ceb621bedca9a0abbb910f685df1"
-    },
-    {
       "path": "config/jei/blacklist.json",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/jei/blacklist.json",
       "size": 19,
@@ -745,30 +655,6 @@
       "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34"
     },
     {
-      "path": "config/lrarmor-common.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/lrarmor-common.toml",
-      "size": 128,
-      "sha1": "b6bdb2c9a839a9f1e47a1929b7649cfbc46b1f98"
-    },
-    {
-      "path": "config/lrtactical-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/lrtactical-client.toml",
-      "size": 199,
-      "sha1": "ae44fb232842fa6ea472301b820880943379a2e6"
-    },
-    {
-      "path": "config/lrtactical-common.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/lrtactical-common.toml",
-      "size": 360,
-      "sha1": "24b510867e05d2f4f97fcfb774446058c085a88b"
-    },
-    {
-      "path": "config/mafglib.json",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/mafglib.json",
-      "size": 149,
-      "sha1": "38d9e77318ca57d5161d2aa76f26e0263dfa7f0e"
-    },
-    {
       "path": "config/Mekanism/client.toml",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/Mekanism/client.toml",
       "size": 4293,
@@ -829,42 +715,6 @@
       "sha1": "b9901a2bc6ef8d34530486efbd6d42dd62097537"
     },
     {
-      "path": "config/mekmissilesconfig.properties",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/mekmissilesconfig.properties",
-      "size": 3763,
-      "sha1": "2d82887506cace03002733f1285c967f9149cb37"
-    },
-    {
-      "path": "config/mnweconfig.properties",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/mnweconfig.properties",
-      "size": 7169,
-      "sha1": "c15b4a3b0ddda911ad195b1d7752c96179085937"
-    },
-    {
-      "path": "config/moonlight-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/moonlight-client.toml",
-      "size": 1027,
-      "sha1": "2b7b74e7a52aa0863a6d8d92ceca1e7e5dc247be"
-    },
-    {
-      "path": "config/moonlight-common.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/moonlight-common.toml",
-      "size": 1023,
-      "sha1": "ad306d35d661dfff2a752674eb4b8e05f05f1c8e"
-    },
-    {
-      "path": "config/mtsconfig.json",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/mtsconfig.json",
-      "size": 15001,
-      "sha1": "0aed7ea7d77369dcab7af53351f0456dcf52899e"
-    },
-    {
-      "path": "config/mtsconfigclient.json",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/mtsconfigclient.json",
-      "size": 24696,
-      "sha1": "a77daf5694d84e18ed00b0ec9c87099f60c2ac11"
-    },
-    {
       "path": "config/NoChatReports/NCR-Client.json",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/NoChatReports/NCR-Client.json",
       "size": 565,
@@ -893,78 +743,6 @@
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/NoChatReports/README.md",
       "size": 167,
       "sha1": "75d98286a0aa3e180708523c8f582a2d23e590b3"
-    },
-    {
-      "path": "config/patchouli-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/patchouli-client.toml",
-      "size": 1091,
-      "sha1": "e4987ed22204ca092b2d62a5fa1a065fe88fd9b2"
-    },
-    {
-      "path": "config/resourceful-config-web.json",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/resourceful-config-web.json",
-      "size": 196,
-      "sha1": "4b3f8f2c6f5946e1a29431d8e887f16b377bcb68"
-    },
-    {
-      "path": "config/storagedrawers-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/storagedrawers-client.toml",
-      "size": 941,
-      "sha1": "e6e0bae542f0d95d47c0be1d047213a0e5407bf6"
-    },
-    {
-      "path": "config/storagedrawers-common.v2.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/storagedrawers-common.v2.toml",
-      "size": 17930,
-      "sha1": "d3511a7259352823758b10ec4f67547715d2ccd8"
-    },
-    {
-      "path": "config/superbwarfare-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/superbwarfare-client.toml",
-      "size": 3774,
-      "sha1": "1c315838735067baa0d210ccb729d0c19a67f1f5"
-    },
-    {
-      "path": "config/superbwarfare-common.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/superbwarfare-common.toml",
-      "size": 468,
-      "sha1": "6f401a59c1cfbe63ee7c8ab56d5aeda2eeeff4cd"
-    },
-    {
-      "path": "config/supplementaries-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/supplementaries-client.toml",
-      "size": 9370,
-      "sha1": "86e271119e053497253597dcbdc6aecb7eaed6d0"
-    },
-    {
-      "path": "config/supplementaries-common.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/supplementaries-common.toml",
-      "size": 24952,
-      "sha1": "9bf4e043e3e525a748b4736cb01be3339e98fedd"
-    },
-    {
-      "path": "config/tacz-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/tacz-client.toml",
-      "size": 3712,
-      "sha1": "551bec540e3c9de9015c3dfb5442847355fdcd8b"
-    },
-    {
-      "path": "config/tacz-common-1.toml.bak",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/tacz-common-1.toml.bak",
-      "size": 1658,
-      "sha1": "1229fd47f6da36ceda745f7941f29f73cc8670b2"
-    },
-    {
-      "path": "config/tacz-common.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/tacz-common.toml",
-      "size": 2172,
-      "sha1": "4eda168570f6078b70ced05a908f7af8a5c79226"
-    },
-    {
-      "path": "config/trashslot-common.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/trashslot-common.toml",
-      "size": 754,
-      "sha1": "91ff5f5508cbe930d5a3a6ee40f5e97f7d38bbd4"
     },
     {
       "path": "config/voicechat/category-volumes.properties",
@@ -1001,12 +779,6 @@
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/voicechat/voicechat-server.properties",
       "size": 3072,
       "sha1": "4d24b1dea6c3fe109ce7282637d3dc7e73ae4c49"
-    },
-    {
-      "path": "config/voicechat-client.toml",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/voicechat-client.toml",
-      "size": 94,
-      "sha1": "6a87c562a167f9b5faf95bf1f446422f887ff96a"
     },
     {
       "path": "config/xaero/lib/client.cfg",
@@ -1073,12 +845,6 @@
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/xaero/minimap/server_profiles/default.cfg",
       "size": 75,
       "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
-    },
-    {
-      "path": "config/xaerohud.txt",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/xaerohud.txt",
-      "size": 123,
-      "sha1": "9b2b47ea69e26908152d7ed1c6f90222745dced0"
     }
   ]
 }
