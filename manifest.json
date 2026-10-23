@@ -1,0 +1,262 @@
+{
+  "version": "2026-10-23T10:35:34.213Z",
+  "forge": {
+    "version": "1.20.1-47.3.0",
+    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar",
+    "sha1": "0deb8e547a9e3f098a4c9f082903499703c52f5d"
+  },
+  "files": [
+    {
+      "path": "mods/ad_astra-forge-1.20.1-1.15.21.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/ad_astra-forge-1.20.1-1.15.21.jar",
+      "size": 7508773,
+      "sha1": "562b28ad84cde481f857562c7991a8750b814e24"
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/architectury-9.2.14-forge.jar",
+      "size": 580602,
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+    },
+    {
+      "path": "mods/athena-forge-1.20.1-3.1.2.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/athena-forge-1.20.1-3.1.2.jar",
+      "size": 91808,
+      "sha1": "2acee24454af859988a691f0506271a465f68f7b"
+    },
+    {
+      "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/BadOptimizations-2.4.1-1.20.1.jar",
+      "size": 460234,
+      "sha1": "304007dcb0fb15ed1a1bc3771736470dafc5be0f"
+    },
+    {
+      "path": "mods/botarium-forge-1.20.1-2.3.4.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/botarium-forge-1.20.1-2.3.4.jar",
+      "size": 157633,
+      "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b"
+    },
+    {
+      "path": "mods/chipped-forge-1.20.1-3.0.7.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/chipped-forge-1.20.1-3.0.7.jar",
+      "size": 15060263,
+      "sha1": "25ee2a0846059d8f21d28b94b7e0229b60cb5499"
+    },
+    {
+      "path": "mods/cozy_home-3.0.4-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/cozy_home-3.0.4-forge-1.20.1.jar",
+      "size": 3625445,
+      "sha1": "9b5c0143e9dca96ddcf999f94c8aa0a30495f49f"
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/curios-forge-5.14.1%2B1.20.1.jar",
+      "size": 398066,
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
+    },
+    {
+      "path": "mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar",
+      "size": 10873769,
+      "sha1": "c1a973b55f6f67e9fdeb197195e490ba92146381"
+    },
+    {
+      "path": "mods/decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "size": 573928,
+      "sha1": "10263d3e99807662ff065edce0e470fe62e84b30"
+    },
+    {
+      "path": "mods/DustyDecorations_1.20.1Forge_V1.13.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/DustyDecorations_1.20.1Forge_V1.13.jar",
+      "size": 5074483,
+      "sha1": "e0611ef10f809f093c2ae8b91f2bf12739e73afa"
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.3.4.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/FarmersDelight-1.20.1-1.3.4.jar",
+      "size": 3311051,
+      "sha1": "26f615fd35f652021f5b0f1cba68afa7d578fe15"
+    },
+    {
+      "path": "mods/framework-forge-1.20.1-0.8.0.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/framework-forge-1.20.1-0.8.0.jar",
+      "size": 383868,
+      "sha1": "27347879f8760a7bc0b4bd71977abc50e498811c"
+    },
+    {
+      "path": "mods/fusion-1.3.16-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/fusion-1.3.16-forge-mc1.20.1.jar",
+      "size": 972917,
+      "sha1": "bdaea06e0900a21d01b47389f256c99875f5824e"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "size": 1038209,
+      "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d"
+    },
+    {
+      "path": "mods/JustEnoughGuns-0.14.5-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/JustEnoughGuns-0.14.5-1.20.1.jar",
+      "size": 10315504,
+      "sha1": "056118ab84f5463429af75b962c342c5be02bd5a"
+    },
+    {
+      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "size": 625185,
+      "sha1": "2019d821bed9071daabed43979433a5473ceee49"
+    },
+    {
+      "path": "mods/kotlinforforge-4.12.0-all.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/kotlinforforge-4.12.0-all.jar",
+      "size": 7442998,
+      "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22"
+    },
+    {
+      "path": "mods/letsdo-API-forge-1.2.15-forge.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/letsdo-API-forge-1.2.15-forge.jar",
+      "size": 1440591,
+      "sha1": "a261043a45097d861a13a63ebdbb0ca350e06a63"
+    },
+    {
+      "path": "mods/letsdo-bakery-forge-1.1.15.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/letsdo-bakery-forge-1.1.15.jar",
+      "size": 1539376,
+      "sha1": "c5cd44088089fca03f3291b851dcb0d00018fecb"
+    },
+    {
+      "path": "mods/letsdo-brewery-forge-1.1.9.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/letsdo-brewery-forge-1.1.9.jar",
+      "size": 2228646,
+      "sha1": "50e5181e734dcfc599aa0eaac376ff4e312f63c2"
+    },
+    {
+      "path": "mods/letsdo-furniture-forge-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/letsdo-furniture-forge-1.0.4.jar",
+      "size": 2816299,
+      "sha1": "272cdaa252b23888ad7fae6959bdfe89317a35bd"
+    },
+    {
+      "path": "mods/letsdo-vinery-forge-1.4.41.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/letsdo-vinery-forge-1.4.41.jar",
+      "size": 2041283,
+      "sha1": "68ed3fa9524bef601064f49f60a30423db2f8fdc"
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "size": 1246753,
+      "sha1": "fe6a9eb2fbc78300a6286fd25854c9f087e689a6"
+    },
+    {
+      "path": "mods/Mekanism-1.20.1-10.4.16.80.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/Mekanism-1.20.1-10.4.16.80.jar",
+      "size": 12558456,
+      "sha1": "b7f12ae710888b01746507a0aa8cb375f5897158"
+    },
+    {
+      "path": "mods/MekanismGenerators-1.20.1-10.4.16.80.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/MekanismGenerators-1.20.1-10.4.16.80.jar",
+      "size": 1054586,
+      "sha1": "53fa707fd204ca1dd099a08995c2197145ff9a36"
+    },
+    {
+      "path": "mods/MekanismTools-1.20.1-10.4.16.80.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/MekanismTools-1.20.1-10.4.16.80.jar",
+      "size": 517999,
+      "sha1": "0d22b1cc01a33702f1b9e17b26cc55e233a4e7ff"
+    },
+    {
+      "path": "mods/mekmissiles-FORGE-1.5.2-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/mekmissiles-FORGE-1.5.2-1.20.1.jar",
+      "size": 299517,
+      "sha1": "5a2302318278bd74e1df56f2a2a34a7112047c8c"
+    },
+    {
+      "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "size": 37178,
+      "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8"
+    },
+    {
+      "path": "mods/mnwe-FORGE-1.7.1-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/mnwe-FORGE-1.7.1-1.20.1.jar",
+      "size": 343167,
+      "sha1": "fa966ca091f892154ef962b5008408f2b820cecd"
+    },
+    {
+      "path": "mods/moonlight-1.20-2.16.37-forge.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/moonlight-1.20-2.16.37-forge.jar",
+      "size": 1421904,
+      "sha1": "1e73f140e59bd76508e464bf2506fffe362b5e6b"
+    },
+    {
+      "path": "mods/nationpump-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/nationpump-1.0.0.jar",
+      "size": 80201,
+      "sha1": "dfaaed3b0f5db66e66c34518e3f32c11aeb25c2a"
+    },
+    {
+      "path": "mods/nationui-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/nationui-1.0.0.jar",
+      "size": 169099,
+      "sha1": "25c7b61079dc4688d140f3b34eaa2c08fd0fbb5a"
+    },
+    {
+      "path": "mods/rechiseled-1.2.6-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/rechiseled-1.2.6-forge-mc1.20.1.jar",
+      "size": 11895585,
+      "sha1": "21d490e6aa8ba2ac7fad315d937b0b8f21b8c639"
+    },
+    {
+      "path": "mods/rechiseled_chipped-2.0-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/rechiseled_chipped-2.0-1.20.1.jar",
+      "size": 182898,
+      "sha1": "afb24ee1e9f872de2e8f56dd64f5f67958626039"
+    },
+    {
+      "path": "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "size": 136923,
+      "sha1": "597d40920dcc935f963842c817dcc4901862ab14"
+    },
+    {
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "size": 432753,
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
+    },
+    {
+      "path": "mods/StorageDrawers-forge-1.20.1-12.15.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/StorageDrawers-forge-1.20.1-12.15.1.jar",
+      "size": 1205432,
+      "sha1": "7ccbbd9b26296e58069db9926cb3a0e40f24927a"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "size": 206584,
+      "sha1": "f80f9eed728966adcfbcc848633e789645057281"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar",
+      "size": 559829,
+      "sha1": "a98686fb8c9cb2725405d18a314df19087c2ff8b"
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "size": 4923439,
+      "sha1": "cc94c3eecc325ea3066ee3cd8bf57142d1b11762"
+    },
+    {
+      "path": "mods/v_slab_compat-1.20-2.5.jar",
+      "url": "https://raw.githubusercontent.com/FlyStud/novaworld-mods/main/mods/v_slab_compat-1.20-2.5.jar",
+      "size": 94747,
+      "sha1": "6e9a196d32bca1b4a54a5881df469fba9d7bd5ed"
+    }
+  ]
+}
