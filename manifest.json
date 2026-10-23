@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-23T12:13:32.816Z",
+  "version": "2026-10-23T13:17:11.752Z",
   "forge": {
     "version": "1.20.1-47.3.0",
     "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar",
@@ -363,8 +363,14 @@
     {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/customization/title_screen_layout.txt",
-      "size": 56653,
-      "sha1": "f7d451d8207b1b2d10ff5993509dcdd9c568a27b"
+      "size": 56469,
+      "sha1": "3d4862cec1f54546d9cb0dffa4fe466de578ca1c"
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout_1.txt",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/customization/title_screen_layout_1.txt",
+      "size": 50823,
+      "sha1": "e16e3b3cf189c8b3d49b5ffdd0652726f8bd1d42"
     },
     {
       "path": "config/fancymenu/custom_gui_screens.txt",
@@ -387,8 +393,8 @@
     {
       "path": "config/fancymenu/options.txt",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/options.txt",
-      "size": 4398,
-      "sha1": "7cd3471a55cd2b08b258b0080a2e036c55f6705b"
+      "size": 4399,
+      "sha1": "1f6fef5b5af85fed91360b29a3deb0af6c69c7ab"
     },
     {
       "path": "config/fancymenu/ui_themes/cherry_blossom.json",
