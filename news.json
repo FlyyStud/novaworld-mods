@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Nouveau launcher NovaWorld",
+    "date": "23/10/2026",
+    "text": "Le launcher officiel est disponible. Il installe et met à jour les mods automatiquement : connecte-toi avec ton compte du site et clique sur JOUER."
+  },
+  {
+    "title": "Gisements de pétrole",
+    "date": "23/10/2026",
+    "text": "Chaque chunk contient désormais un gisement limité de pétrole, qui se réinitialise toutes les 24h. Utilise /gisement pour connaître le stock du chunk où tu te trouves."
+  },
+  {
+    "title": "Refonte des entreprises",
+    "date": "23/10/2026",
+    "text": "Nouveau menu : annuaire des entreprises avec recherche, création d'entreprise et gestion de tes entreprises. Le nouveau type Pétrole est réservé aux pompes et aux raffineries."
+  },
+  {
+    "title": "Hôtel des ventes",
+    "date": "23/10/2026",
+    "text": "Vends et achète des objets entre joueurs avec /hdv. Un classement des nations est aussi disponible dans /n list."
+  }
+]
