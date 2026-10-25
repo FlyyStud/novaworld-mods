@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-25T22:45:53.467Z",
+  "version": "2026-10-25T23:00:56.548Z",
   "forge": {
     "version": "1.20.1-47.3.0",
     "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar",
@@ -67,22 +67,10 @@
       "sha1": "10263d3e99807662ff065edce0e470fe62e84b30"
     },
     {
-      "path": "mods/drippyloadingscreen_forge_3.1.5_MC_1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/drippyloadingscreen_forge_3.1.5_MC_1.20.1.jar",
-      "size": 281881,
-      "sha1": "a33d48809db8a2f1eb3667fe140d7a4104d80dca"
-    },
-    {
       "path": "mods/DustyDecorations_1.20.1Forge_V1.13.jar",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/DustyDecorations_1.20.1Forge_V1.13.jar",
       "size": 5074483,
       "sha1": "e0611ef10f809f093c2ae8b91f2bf12739e73afa"
-    },
-    {
-      "path": "mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
-      "size": 26191988,
-      "sha1": "8916c8f2f12a986365148661fb59650950913b32"
     },
     {
       "path": "mods/FarmersDelight-1.20.1-1.3.4.jar",
@@ -119,12 +107,6 @@
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/JustEnoughGuns-0.14.5-1.20.1.jar",
       "size": 10315504,
       "sha1": "056118ab84f5463429af75b962c342c5be02bd5a"
-    },
-    {
-      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-      "size": 625185,
-      "sha1": "2019d821bed9071daabed43979433a5473ceee49"
     },
     {
       "path": "mods/kotlinforforge-4.12.0-all.jar",
@@ -191,12 +173,6 @@
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/mekmissiles-FORGE-1.5.2-1.20.1.jar",
       "size": 299517,
       "sha1": "5a2302318278bd74e1df56f2a2a34a7112047c8c"
-    },
-    {
-      "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-      "size": 37178,
-      "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8"
     },
     {
       "path": "mods/mnwe-FORGE-1.7.1-1.20.1.jar",
