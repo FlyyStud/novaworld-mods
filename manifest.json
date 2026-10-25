@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-25T19:54:49.511Z",
+  "version": "2026-10-25T21:51:01.694Z",
   "forge": {
     "version": "1.20.1-47.3.0",
     "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar",
@@ -281,6 +281,12 @@
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/xaerominimap-forge-1.20.1-26.6.0.jar",
       "size": 2196194,
       "sha1": "ee73886f2f5f27bf28cffa7cc8f2b9b4540df2aa"
+    },
+    {
+      "path": "config/CustomNpcs.cfg",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/CustomNpcs.cfg",
+      "size": 2929,
+      "sha1": "4779c892fe29c3b8d9d4d37a8af5f84dea31241f"
     },
     {
       "path": "config/drippyloadingscreen/options.txt",
