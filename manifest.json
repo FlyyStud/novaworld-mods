@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-28T22:06:05.486Z",
+  "version": "2026-10-28T22:44:35.373Z",
   "forge": {
     "version": "1.20.1-47.3.0",
     "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar",
@@ -187,6 +187,12 @@
       "sha1": "1e73f140e59bd76508e464bf2506fffe362b5e6b"
     },
     {
+      "path": "mods/nationbox-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/nationbox-1.0.0.jar",
+      "size": 57672,
+      "sha1": "6782480961f04f6e90c28b013b8e5a32f7bc7f33"
+    },
+    {
       "path": "mods/nationpump-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/nationpump-1.0.0.jar",
       "size": 369381,
@@ -295,10 +301,112 @@
       "sha1": "f9b3b58ad621b21371e0ecbfdbbbceff7f6cafce"
     },
     {
+      "path": "config/drippyloadingscreen/options.txt",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/drippyloadingscreen/options.txt",
+      "size": 2513,
+      "sha1": "f751929a5c1d24a7fd28b0a30b83f5b852db9aa3"
+    },
+    {
       "path": "config/Dusty Decorations Config.toml",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/Dusty%20Decorations%20Config.toml",
       "size": 1128,
       "sha1": "ac3e7a73114fe97cc7f4efd6eaf8ab06e4b75587"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/customizablemenus.txt",
+      "size": 157,
+      "sha1": "54e74cedbdc0329372a75d656fbc40bbb5e3635f"
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/customization/title_screen_layout.txt",
+      "size": 50256,
+      "sha1": "0157b7c864d93396fec20c0a76bc939f85d37b86"
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/custom_gui_screens.txt",
+      "size": 56,
+      "sha1": "9ce5c1175354110a8b9f044ac0029be7f57c209b"
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "size": 209,
+      "sha1": "967ad8777f71663fd7d83cdaa3701efc2a014011"
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/legacy_checklist.txt",
+      "size": 44,
+      "sha1": "864461529224648d48bdb285baa4ed8cbe57a382"
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/options.txt",
+      "size": 4554,
+      "sha1": "4f4d86188f60661316023a08ec9c7096a5586550"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/ui_themes/cherry_blossom.json",
+      "size": 9722,
+      "sha1": "40542c7a0a1b42ceba29b3514b61d6f2eb2c3c44"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/ui_themes/cozy_campfire.json",
+      "size": 9720,
+      "sha1": "49a7be6dde748fb29eeed8d552c410a8c222c001"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/ui_themes/dark.json",
+      "size": 9702,
+      "sha1": "60dde7408c5e4f625ee0c3b8b6deff7294a6b2fa"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "size": 9732,
+      "sha1": "54a08d8d56dc1d65aed4843bb3d5d86beb09f831"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/ui_themes/light.json",
+      "size": 9704,
+      "sha1": "7880bf2d99e2cc16b593a4c5f331e992856b1f0e"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/ui_themes/light_high_contrast.json",
+      "size": 9734,
+      "sha1": "5e3d25e262afcecfd51947fe14bfbf864c41cfaf"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "size": 9718,
+      "sha1": "5c8a6560e0c1b542fb2bc125a3a5d5ea56ddeb82"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/ui_themes/purple_void.json",
+      "size": 9716,
+      "sha1": "ae9437906d6b3936e35b65457c8d23ca24594687"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/ui_themes/spooky_season.json",
+      "size": 9720,
+      "sha1": "1b42b3d135704f47c4c3270b71681315cbb1ec80"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/config/fancymenu/user_variables.db",
+      "size": 25,
+      "sha1": "f806989ec314cb737f6ca7811b7d80e87bf3452f"
     },
     {
       "path": "config/farmersdelight-client.toml",
