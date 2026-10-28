@@ -1,0 +1,37 @@
+
+[pump]
+	#Durée pour produire un seau de pétrole, en ticks (20 ticks = 1 seconde). 1200 = 1 minute.
+	#Range: 20 ~ 72000
+	durationTicks = 1200
+	#Énergie (FE) consommée par tick de fonctionnement. 40 FE/t = 48 000 FE par seau.
+	#Range: 1 ~ 400
+	energyPerTick = 40
+	#Objet produit (seau de pétrole NovaWorld).
+	oilItem = "nationpump:oil_bucket"
+
+[deposits]
+	#true = le pétrole est limité par chunk. false = pétrole illimité partout.
+	enabled = true
+	#% de chunks qui contiennent un gisement.
+	#Range: 0 ~ 100
+	chance = 70
+	#Taille minimale d'un gisement (en seaux par période).
+	#Range: 1 ~ 10000
+	minBuckets = 8
+	#Taille maximale d'un gisement (en seaux par période).
+	#Range: 1 ~ 10000
+	maxBuckets = 24
+	#Les gisements se remplissent à nouveau X heures après le premier seau pompé.
+	#Range: 1 ~ 720
+	resetHours = 24
+
+[refinery]
+	#Durée pour raffiner un seau de pétrole, en ticks. 600 = 30 secondes.
+	#Range: 20 ~ 72000
+	durationTicks = 600
+	#Énergie (FE) par tick de fonctionnement (la pompe consomme 40). 15 FE/t = 9 000 FE par seau.
+	#Range: 1 ~ 400
+	energyPerTick = 15
+	#Objet produit (seau de carburant NovaWorld).
+	fuelItem = "nationpump:fuel_bucket"
+
