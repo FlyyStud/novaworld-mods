@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-29T23:28:48.316Z",
+  "version": "2026-10-29T23:32:57.928Z",
   "forge": {
     "version": "1.20.1-47.3.0",
     "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar",
@@ -149,6 +149,12 @@
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/letsdo-vinery-forge-1.4.41.jar",
       "size": 2041283,
       "sha1": "68ed3fa9524bef601064f49f60a30423db2f8fdc"
+    },
+    {
+      "path": "mods/MaFgLib-0.1.14-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/MaFgLib-0.1.14-mc1.20.1.jar",
+      "size": 521709,
+      "sha1": "fd18a3d8a9a72ee27cbb709a88c061b2347d2244"
     },
     {
       "path": "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
