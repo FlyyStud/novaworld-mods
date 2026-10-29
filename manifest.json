@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-29T13:05:34.030Z",
+  "version": "2026-10-29T18:22:27.067Z",
   "forge": {
     "version": "1.20.1-47.3.0",
     "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar",
@@ -207,8 +207,8 @@
     {
       "path": "mods/nationui-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/nationui-1.0.0.jar",
-      "size": 593978,
-      "sha1": "92869d9d78bc58c2211bbc3c95f23c8c8c24ec5d"
+      "size": 613335,
+      "sha1": "3245207551a399ad729374f0d9aa81e433d3f597"
     },
     {
       "path": "mods/rechiseled-1.2.6-forge-mc1.20.1.jar",
