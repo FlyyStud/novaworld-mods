@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-28T22:48:32.981Z",
+  "version": "2026-10-29T13:05:34.030Z",
   "forge": {
     "version": "1.20.1-47.3.0",
     "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar",
@@ -196,7 +196,13 @@
       "path": "mods/nationpump-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/nationpump-1.0.0.jar",
       "size": 369381,
-      "sha1": "cbfddaeda0af6510bfbdb4e55028822ef0627a5f"
+      "sha1": "3bc0dc773aa5eb4efff16ccb8d6fa76aab24def5"
+    },
+    {
+      "path": "mods/nationrepair-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/nationrepair-1.0.0.jar",
+      "size": 49566,
+      "sha1": "ba56adad9b3b812fdaeed413c063beef756cab4d"
     },
     {
       "path": "mods/nationui-1.0.0.jar",
