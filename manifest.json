@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-07T23:24:28.925Z",
+  "version": "2026-11-08T13:26:29.593Z",
   "forge": {
     "version": "1.20.1-47.3.0",
     "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar",
@@ -201,8 +201,8 @@
     {
       "path": "mods/nationbox-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/nationbox-1.0.0.jar",
-      "size": 57672,
-      "sha1": "6782480961f04f6e90c28b013b8e5a32f7bc7f33"
+      "size": 61987,
+      "sha1": "9710af7fb3de15e0008eef24a5db9fdbc08e7d3c"
     },
     {
       "path": "mods/nationpump-1.0.0.jar",
@@ -220,7 +220,7 @@
       "path": "mods/nationui-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/nationui-1.0.0.jar",
       "size": 645898,
-      "sha1": "e86449b7513213c569399e7337c77cd0ef36eaf3"
+      "sha1": "c4f19dd7ca6afccfdc1cc338410bb59534231ad1"
     },
     {
       "path": "mods/rechiseled-1.2.6-forge-mc1.20.1.jar",
