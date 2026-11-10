@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-10T09:07:34.813Z",
+  "version": "2026-11-10T11:19:44.061Z",
   "forge": {
     "version": "1.20.1-47.3.0",
     "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar",
@@ -219,8 +219,8 @@
     {
       "path": "mods/nationui-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/nationui-1.0.0.jar",
-      "size": 688460,
-      "sha1": "dc41cdd0613f2d1ade83a9088f45f7d4caaddb5c"
+      "size": 692058,
+      "sha1": "97a938a62fda9ec8ce367873baa8c46724a5d923"
     },
     {
       "path": "mods/rechiseled-1.2.6-forge-mc1.20.1.jar",
@@ -275,12 +275,6 @@
       "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/v_slab_compat-1.20-2.5.jar",
       "size": 94747,
       "sha1": "6e9a196d32bca1b4a54a5881df469fba9d7bd5ed"
-    },
-    {
-      "path": "mods/xaerominimap-forge-1.20.1-26.6.0.jar",
-      "url": "https://raw.githubusercontent.com/FlyyStud/novaworld-mods/main/mods/xaerominimap-forge-1.20.1-26.6.0.jar",
-      "size": 2196194,
-      "sha1": "ee73886f2f5f27bf28cffa7cc8f2b9b4540df2aa"
     }
   ]
 }
